@@ -1,0 +1,6 @@
+hts221.c:12:9:hts221_read_byte	32	static
+hts221.c:19:6:hts221_write_byte	16	static
+hts221.c:25:6:hts221_readArray	24	static
+hts221.c:31:7:hts221_get_temp	32	static
+hts221.c:69:5:hts221_get_humid	24	static
+hts221.c:101:9:hts221_init	16	static
